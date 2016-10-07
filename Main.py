@@ -1,5 +1,6 @@
-import Land
-import Player
+
+from Land import Land
+from Player import Player 
 '''
 import socket
 # create all players and initialize land
